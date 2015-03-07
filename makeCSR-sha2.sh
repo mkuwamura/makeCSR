@@ -1,4 +1,4 @@
-﻿#!/usr/bin/expect
+#!/usr/bin/expect
 
 #author @mkuwamura
 # usage ./makeCSR-sha2.sh "JP" "Kyoto" "Kyoto-shi" "MK JAPAN CO.,LTD." "Systems Development Division" "www.example.jp" you_failname
