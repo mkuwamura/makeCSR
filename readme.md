@@ -5,9 +5,9 @@
 ## インストール
 
     git clone https://github.com/mkuwamura/makeCSR.git
-
-
-
+　　cd makeCSR
+　　chmod 755 *.sh
+　　
 ## 概要
 
 
