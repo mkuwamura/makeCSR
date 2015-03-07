@@ -12,7 +12,7 @@ set OU [lindex $argv 4]
 set CN [lindex $argv 5]
 set FILENAME [lindex $argv 6]
 
-spawn openssl sha1 * |tee rand.dat
+spawn openssl sha256 * |tee rand.dat
 spawn openssl genrsa -rand rand.dat -out $FILENAME.key -des3 2048
 
 expect "Enter pass phrase"
