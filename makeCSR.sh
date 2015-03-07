@@ -1,7 +1,7 @@
 ﻿#!/usr/bin/expect
 
 #author @mkuwamura
-# usage ./csr.sh "JP" "Osaka" "Osaka-shi" "MK JAPAN CO.,LTD." "Systems Development Division" "www.example.jp" you_failname
+# usage ./makeCSR.sh "JP" "Kyoto" "Kyoto-shi" "MK JAPAN CO.,LTD." "Systems Development Division" "www.example.jp" you_failname
 
 set timeout 5
 set C [lindex $argv 0]
