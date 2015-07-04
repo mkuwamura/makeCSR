@@ -14,7 +14,7 @@
 ## 設定
 ### 使い方
 
-$ ./スクリプト名 "JP" "Kyoto" "Kyoto-shi" "MK JAPAN CO.,LTD." "Systems Development Division" "www.example.jp" you_failname
+$ ./スクリプト名 "JP" "Kyoto" "Kyoto-shi" "MK JAPAN CO.,LTD." "Systems Development Division" "www.example.jp" you_filename
 ワンライナーで記載
 
 最後にファイル名を入れるのを忘れずに、
